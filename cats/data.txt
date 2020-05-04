@@ -1,0 +1,17 @@
+path:
+- data.csv
+- data.rds
+rows: 67
+cols: 9
+columns:
+  BreedName: character
+  AltBreedName: character
+  LapCat: character
+  Fur: character
+  MaleWtKg: numeric
+  Temperment: character
+  AvgKittenPrice: numeric
+  MalaysiaPopularity: numeric
+  PopularityUS2017: numeric
+description: Cats' breeds dataset
+type: table

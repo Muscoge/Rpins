@@ -1,0 +1,6 @@
+- path: cats
+  name: cats
+  rows: 67
+  cols: 9
+  description: Cats' breeds dataset
+  type: table
