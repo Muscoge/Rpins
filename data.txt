@@ -4,3 +4,8 @@
   cols: 9
   description: Cats' breeds dataset
   type: table
+- path: cars
+  name: cars
+  rows: 32
+  cols: 12
+  type: table
