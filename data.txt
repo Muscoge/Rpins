@@ -6,6 +6,6 @@
   type: table
 - path: cars
   name: cars
-  rows: 32
-  cols: 12
+  rows: 3
+  cols: 2
   type: table
